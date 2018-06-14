@@ -45,6 +45,17 @@ a:hover {
 	justify-content: space-between;
 	
 }
+@media (max-width: 600px){
+	.skills-container{
+		height: 200px;
+		display: flex;
+		flex-flow: column wrap
+		
+		
+		
+		
+	}
+}
 .skills-container2{
 	display: flex;
 	flex-direction: row;
@@ -67,6 +78,16 @@ a:hover {
 	justify-content: space-between;
 	margin: 20px;
 	
+}
+@media (min-width: 400px){
+	.image-work{
+		display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+	justify-content: space-between;
+	margin: 20px;
+	}
 }
 .stripe{
 	height: 100px;
