@@ -79,7 +79,7 @@ a:hover {
 	margin: 20px;
 	
 }
-@media (min-width: 400px){
+@media (max-width: 500px){
 	.image-work{
 		display: flex;
 	flex-direction: column;
