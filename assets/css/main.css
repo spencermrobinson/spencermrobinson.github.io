@@ -70,6 +70,10 @@ a:hover {
 	height: 200px;
 	width: 300px;
 }
+#gary-robinson-title{
+	margin: 4px;
+	font: 52px;
+}
 .image-work{
 	display: flex;
 	flex-direction: row;
